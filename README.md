@@ -9,9 +9,9 @@ This extension allows you to disable a customer from admin.
 
 In admin choose a client for which you want to disable the account.
 
-Then go to "Account Information" tab and turn on "Account disabled".
+Then go to "**Account Information**" tab and turn on "**Account disabled**".
 
-You can also view in "Personal Information" section in "Customer view" the current status of the account.
+You can also view in "**Personal Information**" section in "**Customer view**" the current status of the account.
 
 ## Authors
 
