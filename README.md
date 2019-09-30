@@ -18,6 +18,8 @@ You can also view in "**Personal Information**" section in "**Customer view**" t
 * **Aurélien Jourquin**       - *Initial work*
 
 ## Releases notes
+* **1.1.0**
+    * Delete added column in customer_entity table
 * **1.0.1**
     * Change composer structure directory
 * **1.0.0**

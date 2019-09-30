@@ -1,7 +1,7 @@
 {
   "name": "ajourquin/module-disable-customer",
   "description": "Disable customer account from admin",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "type": "magento2-module",
   "license": "OSL-3.0",
   "authors": [
