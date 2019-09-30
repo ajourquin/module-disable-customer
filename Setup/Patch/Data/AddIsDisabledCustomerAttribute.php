@@ -28,7 +28,7 @@ class AddIsDisabledCustomerAttribute implements DataPatchInterface
     private $attributeResource;
 
     /**
-     * AddIsBlockedCustomerAttribute constructor.
+     * AddIsDisabledCustomerAttribute constructor.
      * @param ModuleDataSetupInterface $moduleDataSetup
      * @param CustomerSetupFactory $customerSetupFactory
      * @param AttributeResource $attributeResource
